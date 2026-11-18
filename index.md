@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # TNTech TV Remote — Privacy Policy
 
-_Effective November 17, 2026_
+_Effective November 17, 2026 (updated to cover the optional purchase)_
 
 TNTech TV Remote ("the app") turns your Android phone into a remote control for Google TV and
 Android TV devices. This policy explains what the app does with information. The short version:
@@ -36,6 +36,14 @@ To reconnect to your TV automatically, the app keeps on your phone:
 This information stays on your phone. It is not backed up to the cloud and is not shared with
 anyone. You can delete it at any time by removing a TV in the app, clearing the app's storage, or
 uninstalling the app.
+
+## The optional purchase
+
+The app is free to use. After 30 days it asks, at most once a day, whether you'd like to buy it
+for a one-time price. If you buy it, **the payment is handled entirely by Google Play** under
+Google's terms and privacy policy. The app only asks Google Play whether this purchase was made,
+so it can stop the reminders; we never see your payment details. The app also remembers on your
+phone when it was first used and when it last showed the reminder.
 
 ## Finding your TV on the network
 
